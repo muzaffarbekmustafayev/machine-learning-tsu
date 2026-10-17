@@ -1,0 +1,5 @@
+Machine learning is a field of inquiry devoted to understanding and building methods that learn.
+Python is widely used in machine learning and data science.
+Data analysis with pandas and numpy is powerful and efficient.
+Learning python helps solve complex real world problems.
+Machine learning models require good data preparation and feature engineering.

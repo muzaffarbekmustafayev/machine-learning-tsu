@@ -1,0 +1,52 @@
+[
+    {
+        "Name":"Wii Sports",
+        "Platform":"Wii",
+        "Reg_Diff":37.72
+    },
+    {
+        "Name":"Duck Hunt",
+        "Platform":"NES",
+        "Reg_Diff":26.65
+    },
+    {
+        "Name":"Super Mario Bros.",
+        "Platform":"NES",
+        "Reg_Diff":25.5
+    },
+    {
+        "Name":"Tetris",
+        "Platform":"GB",
+        "Reg_Diff":20.94
+    },
+    {
+        "Name":"Kinect Adventures!",
+        "Platform":"X360",
+        "Reg_Diff":14.73
+    },
+    {
+        "Name":"Wii Sports Resort",
+        "Platform":"Wii",
+        "Reg_Diff":12.47
+    },
+    {
+        "Name":"Mario Kart Wii",
+        "Platform":"Wii",
+        "Reg_Diff":12.06
+    },
+    {
+        "Name":"Wii Play",
+        "Platform":"Wii",
+        "Reg_Diff":11.1
+    },
+    {
+        "Name":"New Super Mario Bros. Wii",
+        "Platform":"Wii",
+        "Reg_Diff":9.89
+    },
+    {
+        "Name":"Grand Theft Auto V",
+        "Platform":"X360",
+        "Reg_Diff":9.57
+    }
+]

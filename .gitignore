@@ -17,3 +17,5 @@ __pycache__/
 # IDE files
 .vscode/
 .idea/
+catboost_info/
+Laboratory_2/catboost_info/
