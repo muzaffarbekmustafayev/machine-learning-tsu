@@ -1,0 +1,19 @@
+# Large files and datasets not part of git tracking
+Laboratory_1/
+Система позиционирования.csv
+Датасет Фонокардиограммы/
+Набор по Титанику/
+
+# Virtual environments and caches
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# IDE configs
+.vscode/
+.idea/
+*.swp
