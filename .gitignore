@@ -1,19 +1,19 @@
-# Large files and datasets not part of git tracking
-Laboratory_1/
+# Large files exceeding GitHub 100MB limit
+Laboratory_1/Система позиционирования.csv
+Laboratory_1/Датасет Фонокардиограммы/
 Система позиционирования.csv
 Датасет Фонокардиограммы/
 Набор по Титанику/
+Laboratory_1/Набор по Титанику/
 
-# Virtual environments and caches
+# Virtual environment and cache
 .venv/
+Laboratory_1/.venv/
 venv/
-ENV/
 __pycache__/
 *.py[cod]
-*$py.class
 .ipynb_checkpoints/
 
-# IDE configs
+# IDE files
 .vscode/
 .idea/
-*.swp
